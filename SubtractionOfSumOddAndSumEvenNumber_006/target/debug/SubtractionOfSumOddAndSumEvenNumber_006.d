@@ -1,0 +1,1 @@
+/home/waldy/Usage/project/300Mely/SubtractionOfSumOddAndSumEvenNumber_006/target/debug/SubtractionOfSumOddAndSumEvenNumber_006: /home/waldy/Usage/project/300Mely/SubtractionOfSumOddAndSumEvenNumber_006/src/main.rs
